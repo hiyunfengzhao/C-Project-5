@@ -1,4 +1,4 @@
-# C-Project-5
+# Cplusplus-Project-5
 My solution of project 5 for entry C++ class, should compute correctly
 Please use it only as a guide.
 
