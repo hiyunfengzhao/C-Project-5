@@ -7,5 +7,5 @@ Please use it only as a guide.
 * Author: Yun-feng Zhao
 * Version: June 28, 2019
 
-
+void testMenu();bool isLeapYear(int year);int getCenturyValue(int year);int getYearValue(int year);int getMonthValue(int month, int year);string dayOfWeek(int day);
 
